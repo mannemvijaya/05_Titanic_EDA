@@ -30,7 +30,7 @@ The dataset used is the famous Titanic passenger data, which contains informatio
 
 ## How to Run
 1. Clone or download this repository.
-2. Open the Jupyter Notebook file (`Titanic_EDA.ipynb`).
+2. Open the Jupyter Notebook file (`05_Titanic_EDA.ipynb`).
 3. Run the notebook cells sequentially to reproduce the analysis and visualizations.
 
 ## Findings Summary
